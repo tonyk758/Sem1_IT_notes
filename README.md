@@ -118,12 +118,39 @@ Future trends: AI, IoT, Cloud computing, Smart devices, Security challenges
 
 
 
+🧾 交易處理系統（TPS） | Transaction-Processing Systems
+
+專注於資料的收集與處理	Focuses on data collection and processing
+
+目的是降低成本	Used for cost reduction
+
+適用於結構化任務，如記錄保存、文書作業、庫存控制	Applied to structured tasks such as record keeping, clerical operations, and inventory control
+
+自動化後可減少人力參與	Requires minimal human involvement when automated
+
+📌 TPS 是企業資訊系統的基礎，例如：POS 系統、薪資處理、訂單管理等。
 
 
 
+📊 管理資訊系統（MIS） | Management Information Systems
 
+整合硬體、軟體、資料、處理程序與人員	
 
+Organized integration of hardware, software, data, processes, and human elements
 
+目的是產出即時、整合、相關、準確且有用的資訊	
+
+Designed to produce timely, integrated, relevant, accurate, and useful information for decision-making
+
+支援管理層的決策	
+
+Supports decision-making at the management level
+
+應用範圍廣泛，包含私部門（如銷售預測）與公部門（如犯罪統計）	
+
+Used in both private (e.g., sales forecasting) and public sectors (e.g., crime statistics and forecasts)
+
+📌 MIS 是 TPS 的延伸與進階應用，將資料轉化為資訊，幫助企業做出更好的策略決策。
 
 
 
